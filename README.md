@@ -56,4 +56,4 @@ Post bug reports before posting negative comments, our community works hard to m
 
 # Licensing
 
-MIT See https://github.com/DevFranGS/pwa-qr-nfc/LICENSE
+MIT See https://github.com/DevFranGS/pwa-qr-nfc/blob/master/LICENSE
